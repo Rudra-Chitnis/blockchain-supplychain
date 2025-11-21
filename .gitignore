@@ -1,0 +1,29 @@
+﻿# Node
+node_modules/
+appfrontend/node_modules/
+
+# Hardhat output
+artifacts/
+cache/
+typechain/
+
+# Frontend build
+appfrontend/build/
+appfrontend/dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS/Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
